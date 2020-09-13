@@ -1,0 +1,283 @@
+{
+  "Comment" : {
+    "CustComment" : "Ang Ying Yi"
+  },
+  "Ticket" : {
+      "ticket1" : {
+        "ticketName" : "MY Hero Academia:Heros Rising",
+        "ticketDetail" : "GWS Sunway Pyramid\n14 SEP(MON) 2:30pm\nC1 C2 C3",
+        "code" : "567899"
+      },
+      "ticket2" : {
+        "ticketName" : "Jumanji:The Next Level",
+        "ticketDetail" : "GWS Sunway Pyramid\n15 SEP(MON) 7:30pm\nA1 A2",
+        "code" : "886750"
+      },
+      "ticket3" : {
+        "ticketName" : "Underwater 2020",
+        "ticketDetail" : "GWS Mid Valley\n14 SEP(MON) 2:00pm\nF3 F4 F5",
+        "code" : "321900"
+      },
+      "ticket4" : {
+        "ticketName" : "The Old Guard",
+        "ticketDetail" : "GWS Leisure Mall\n16 SEP(MON) 4:00pm\nC2 C3 C4 C5",
+        "code" : "864967"
+      },
+    "ticket5" : {
+      "ticketName" : "",
+      "ticketDetail" : "",
+      "code" : ""
+    }
+  },
+  "MovieExperience" : {
+    "Experience1" : {
+      "ExperienceContent1" : "With class-leading digital projection and 7.1 premium surround sound, we can ensvure a satisfying experience throughout your movie in this hall. Furnished with congenial seats that provide ample legroom space, relaxation and comfort will have a new improved meaning for you.",
+      "ExperienceImage1" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/classic.jpg?alt=media&token=b627f4b1-ef07-4551-9dbf-dc6f324ac871",
+      "ExperienceName1" : "Classic"
+    },
+    "Experience2" : {
+      "ExperienceContent2" : "Every IMAX® theatre is  custom-designed to deliver the ultimate audio and visual experience. Most standard screens are small so the most obvious difference is the  large IMAX® screens which span wall-to-wall and floor-to ceiling. The screen is not only wider and higher  but also curved as well bringing you closer to the screen.  This places you in the center of the action and creates an  immersive experience no matter where you\\'re sitting.",
+      "ExperienceImage2" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/IMAX.jpg?alt=media&token=4d76c165-2eed-4a4f-8784-4e416f74b674",
+      "ExperienceName2" : "IMAX"
+    },
+    "Experience3" : {
+      "ExperienceContent3" : "The Deluxe hall which debuted in Central i-City meets its forerunner on another level altogether. This hall  has everything you love about the Deluxe hall but with more comfort. Making sure you get only the best,  Deluxe+ really defines the phrase, “get seated and get  comfortable”.",
+      "ExperienceImage3" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/deluxe.jpg?alt=media&token=9b3fe67c-edf9-41e8-9be7-45e4e985e487",
+      "ExperienceName3" : "DELUXE+"
+    }
+  },
+  "Policy" : {
+    "PolicyTitle" : "The privacy and personal data policy  and practices of GWS. GWS Movies Sdn Bhd,and its affiliated related companies (GWS) set out in this Privacy Policy and Personal Data Notice apply to all personal data provided to GWS, whether in electronic form or otherwise. By visiting and using www.gsc.com.my and www.gwsmovies.com.my (GWS’s Website), any mobile applications run and maintained by GWS (GWS Mobile Application),and other services provided by GWS as well as by providing personal data to GWS, you agree to be bound by the terms and  conditions of this Privacy Policy and Personal Data Notice.If you do not agree to such terms and conditions, please do not use or access GWS’s Website or GWS Mobile Application, use the services provided by GWS  or provide any  personal data to GWS."
+  },
+  "category1" : {
+    "NowShowing10" : {
+      "MovieDetails10" : "Classification: 18\nGenre: Horror\nRunning Time: 1 Hour 50 Minutes\nFormat: Classic(2D)",
+      "MovieImage10" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FFantasy%20Island.jpg?alt=media&token=c50b1c0b-7a4b-4ec0-845d-9b3325cdb6ef",
+      "MovieInfo10" : "Language: English \nSubtitle: Malay / Chinese \nClassification: 18 \nRelease Date: 27 Feb 2020 \nGenre: Horror \nRunning Time: 1 Hour 50 Minutes \nDistributor: Sony Pictures Entertainment \nCast: Michael Pena, Lucy Hale, Maggie Q, Portia Doubleday \nDirector: Jeff Wadlow \nFormat: Classic(2D) \n",
+      "MovieName10" : "Fantasy Island",
+      "MovieSynopsis10" : "1980s` TV series \"Fantasy Island\" gets a horror twist in this big screen adaptation. A mysterious man named Mr. Roarke makes the secret wishes of his guests at a luxurious but remote tropical resort come true. However, the guests must solve the island`s mystery so they can escape with their lives when the fantasies suddenly turn into nightmares.",
+      "MovieTrailer10" : "https://www.youtube.com/watch?v=a6O30nJ02PU"
+    },
+    "NowShowing11" : {
+      "MovieDetails11" : "Classification: P13\nGenre: Action/Adventure\nRunning Time: 2 Hour 5 Minutes\nFormat: Classic(2D)",
+      "MovieImage11" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fthe%20old%20guard.jpg?alt=media&token=9fa94157-530d-4751-8cb7-5bcac47583a0",
+      "MovieInfo11" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nPremiere Date: 10 Jul 2020 \nGenre: Action/Adventure \nPlatform: Netflix \nType: Movie \nCast: Charlize Theron, KiKi Layne, Marwan Kenzari, Luca Marinelli, Harry Melling, Van Veronica Ngo, Matthias Schoenaerts, Chiwetel Ejiofor \nDirector/Creator: Gina Prince-Bythewood \nFormat: Classic(2D) \n",
+      "MovieName11" : "The Old Guard",
+      "MovieSynopsis11" : "The story focuses on a pack of mercenaries who are all centuries-old immortals able to heal from any wound. Just as they find another immortal has \"awakened\", they realize someone is onto their secret and have to fight for their freedom.",
+      "MovieTrailer11" : "https://www.youtube.com/watch?v=aK-X2d0lJ_s"
+    },
+    "NowShowing12" : {
+      "MovieDetails12" : "Classification: P13\nGenre: Animation\nRunning Time: 1 Hour 43 Minutes\nFormat: Classic(2D), IMAX, DELUXE+",
+      "MovieImage12" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FOnward!.jpg?alt=media&token=26f3fa51-0979-442e-89d6-4231b863f531",
+      "MovieInfo12" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nRelease Date: 5 Mar 2020 \nGenre: Animation \nRunning Time: 1 Hour 43 Minutes \nDistributor: Walt Disney Pictures \nCast: Tom Holland, Chris Pratt, Julia Louis-Dreyfus, Octavia Spencer \nDirector: Dan Scanlon \nFormat: Classic(2D), IMAX, DELUXE+ \n",
+      "MovieName12" : "Onward",
+      "MovieSynopsis12" : "Ian and Barley Lightfoot are two elf brothers living in a suburban fantasy world, where no humans exist and it is instead populated by creatures like elves, trolls, mermaids and more. One day, the two teens embark on a journey to discover if there is still magic left in the world. They are hoping to use magic to spend one day with the father they lost when they were still too young to remember him. When one of them later tries to bring their father back using a spell, only the bottom half of their father appears. As the spell only lasts for 24 hours, they must find a way to bring back the rest of him, not just his legs, before they run out of time.",
+      "MovieTrailer12" : "https://www.youtube.com/watch?v=gn5QmllRCn4"
+    },
+    "NowShowing13" : {
+      "MovieDetails13" : "Classification: P18\nGenre: Action / Drama / Horror\nRunning Time: 1 Hour 23 Minutes\nFormat: Classic(2D)",
+      "MovieImage13" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fblack%20water%20-%20abyss.jpg?alt=media&token=bbe985d6-8bb4-4eb1-b854-0d66ac62ebf1",
+      "MovieInfo13" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P18 \nRelease Date: 6 Aug 2020 \nGenre: Action / Drama / Horror \nRunning Time: 1 Hour 23 Minutes \nDistributor: GSC Movies \nCast: Jessica McNamee, Luke Mitchell, Amali Golden \nDirector: Andrew Traucki \nFormat: Classic(2D) \n",
+      "MovieName13" : "Black Water: Abyss",
+      "MovieSynopsis13" : "With the unpredictable Cash serving as their guide, adventurous couple Eric and Jennifer and their friends Yolanda and Viktor set off to explore an uncharted cave system in a remote part of Northern Australia. Thinking that they will be safe underground as a tropical storm approaches, their thoughts are proven wrong when the caves begin to flood and they find themselves trapped in there. As they fight for their survival, they come to realise that there is something else to worry about other than the rising water and falling oxygen levels, as the storm has also brought in a pack of dangerous and hungry crocodiles.",
+      "MovieTrailer13" : "https://www.youtube.com/watch?v=JKNv2YfrM7Y"
+    },
+    "NowShowing14" : {
+      "MovieDetails14" : "Classification: P13\nGenre: Horror\nRunning Time: 1 Hour 27 Minutes\nFormat: Classic(2D)",
+      "MovieImage14" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fthe%20jack%20in%20the%20box.jpg?alt=media&token=0c0fab31-828a-4290-a37d-9d8dcf10fa44",
+      "MovieInfo14" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nRelease Date: 6 Aug 2020 \nGenre: Horror \nRunning Time: 1 Hour 27 Minutes \nDistributor: TGV Pictures \nCast: Ethan Taylor, Robert Nairne, Lucy-Jane Quinlan \nDirector: Lawrence Fowler \nFormat: Classic(2D) \n",
+      "MovieName14" : "The jack in the box",
+      "MovieSynopsis14" : "Casey Reynolds, a staff at a museum located in the heart of the woods, believes that the vintage Jack-In-The-Box that is donated to the place is cursed. He thinks that the creepy clown doll inside it has a life of its own. He then realises he will have to find a way to end its curse when his colleagues begin dying one by one, or he will end up dead too.",
+      "MovieTrailer14" : "https://www.youtube.com/watch?v=1j1zRsb2UaE"
+    },
+    "NowShowing15" : {
+      "MovieDetails15" : "Classification: P13\nGenre: Adventure / Animation / Comedy\nRunning Time: 1 Hour 34 Minutes\nFormat: Classic(2D)",
+      "MovieImage15" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fscoob%202020.png?alt=media&token=32454b13-622b-4d65-92b7-b4a0c6956bc0",
+      "MovieInfo15" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nRelease Date: 6 Aug 2020 \nGenre: Adventure / Animation / Comedy \nRunning Time: 1 Hour 34 Minutes \nDistributor: Warner Bros. Pictures \nCast: Will Forte, Mark Wahlberg, Jason Isaacs, Gina Rodriguez, Zac Efron, Amanda Seyfried, Kiersey Clemons, Ken Jeong, Tracy Morgan, Frank Welker \nDirector: Tony Cervone \nFormat: Classic(2D) \n",
+      "MovieName15" : "Scoob!",
+      "MovieSynopsis15" : "The movie tells of how Scooby and Shaggy first met and become lifelong friends, as well as how they come to form the famous Mystery Inc. with young detectives Fred, Velma and Daphne. It also follows the gang on their most challenging and biggest mystery yet, which involves them stopping ghost dog Cerberus from being unleashed upon the world. They soon learn of Scooby`s secret legacy and epic destiny as they try to stop the global \"dogpocalypse\".",
+      "MovieTrailer15" : "https://www.youtube.com/watch?v=vf1aW1z437I"
+    },
+    "NowShowing16" : {
+      "MovieDetails16" : "Classification: P13\nGenre: Drama / Romance\nRunning Time: 1 Hour 42 Minutes\nFormat: Classic(2D)",
+      "MovieImage16" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fa%20choo%202020.jpg?alt=media&token=12b87f89-163a-499e-ac6f-e2c691c0372c",
+      "MovieInfo16" : "Language: Mandarin \nSubtitle: English / Chinese \nClassification: P13 \nRelease Date: 30 Jul 2020 \nGenre: Drama / Romance \nRunning Time: 1 Hour 42 Minutes \nDistributor: MM2 Entertainment \nCast: Kai Ko, Ariel Lin, Zhang Xiao-Long, Vanness Wu, Darren Wang \nDirector: Kevin Ko \nFormat: Classic(2D) \n",
+      "MovieName16" : "A-Choo!",
+      "MovieSynopsis16" : "Growing up together in an orphanage, Wang Yi Zhi falls in love with Xin Xin and whenever he miser her, she will sneeze. His feelings for her grow stronger as they grow older. Hoping to win her love, he trains to become a boxer. However, before he could confess his feelings to her, she falls in love with a computer engineer, who looks geeky but is actually a famous superhero. One day, when Xin Xin gets kidnapped, Yi Zhi must use his fighting skills to save her.",
+      "MovieTrailer16" : "https://www.youtube.com/watch?v=eY3z4MXdiAI"
+    },
+    "NowShowing17" : {
+      "MovieDetails17" : "Classification: P13\nGenre: Anime\nRunning Time: 2 Hours 7 Minutes\nFormat: Classic(2D)",
+      "MovieImage17" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FDemon%20Slayer%20Party.jpg?alt=media&token=8fbec80d-1b41-43e3-95fc-c9e01086a92f",
+      "MovieInfo17" : "Language: Japanese \nSubtitle: English \nClassification: P13 \nRelease Date: 8 Aug 2020 \nGenre: Anime \nRunning Time: 2 Hours 7 Minutes  \nDistributor: GSC Movies \nCast: Natsuki Hanae, Akari Kito, Hiro Shimono, Yoshitsugu Matsuoka, Takahiro Sakurai \nFormat: Classic(2D) \n",
+      "MovieName17" : "Demon Slayer Party",
+      "MovieSynopsis17" : "The original show, \"The Special Live Reading, Memoirs Under the Moonlight\", premiered on the eve of the broadcast of the 26th and final episode of the anime adaptation of \"Kimetsu no Yaiba\". In this 2-hour show, six main members of the cast will be featured in costume and performing their lines onstage. The live reading includes a brand-new animated short made exclusively for the event called \"School Life! A Kimetsu Academy Story\", which is a comical three-episode arc showing what \"Demon Slayer: Kimetsu no Yaiba\" would be if it were a school story.",
+      "MovieTrailer17" : "https://www.youtube.com/watch?v=W11GlYPIf3g"
+    },
+    "NowShowing3" : {
+      "MovieDetails3" : "Classification: P13\nGenre: Adventure / Animation\nRunning Time: 1 Hour 35 Minutes\nFormat: Classic(2D)",
+      "MovieImage3" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FDigimon%20Adventure%20-%20Last%20Evolution%20Kizuna.jpg?alt=media&token=363e4e69-5cef-495e-8870-c7b2cbfc6825",
+      "MovieInfo3" : "Language: Japanese \nSubtitle: English / Malay / Chinese \nClassification: P13 \nRelease Date: 1 Jul 2020 \nGenre: Adventure / Animation \nRunning Time: 1 Hour 35 Minutes \nDistributor: GSC Movies \nCast: Natsuki Hanae, Yoshimasa Hosoya, Suzuko Mimori \nDirector: Tomohisa Taguchi \nFormat: Classic(2D) \n",
+      "MovieName3" : "Digimon Adventure: Last Evolution Kizuna",
+      "MovieSynopsis3" : "Set in 2010, Taichi is now a college student while the others are also following their own paths in life. Over 10 years have passed since they met and had their adventure in Digital World. Now the sight of Digimon in the real world is more common and DigiDestined`s existence is also gradually acknowledged. But during this time, a powerful Digimon called Eosmon starts robbing other DigiDestined of their consciousness, prompting scholars Menoa and Imura to turn to Taichi and his friends for help. While battling Eosmon, Taichi notices something is wrong with Agumon`s and the others` evolutions. He and his friends then learn a shocking truth from Menoa, a Digimon will cease to exist when its DigiDestined becomes an adult. Taichi must decide if he wants to continue fighting, if it means losing his partner much sooner.",
+      "MovieTrailer3" : "https://www.youtube.com/watch?v=tn3wq2nmLw4&feature=youtu.be"
+    },
+    "NowShowing4" : {
+      "MovieDetails4" : "Classification: P13\nGenre: Action / Drama / Horror\nRunning Time: 1 Hour 35 Minutes\nFormat: Classic(2D)",
+      "MovieImage4" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Funderwater.jpg?alt=media&token=a63a2352-167d-4992-8e09-d311087ca1ad",
+      "MovieInfo4" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nRelease Date: 9 Jan 2020 \nGenre: Action / Drama / Horror \nRunning Time: 1 Hour 35 Minutes \nDistributor: Walt Disney Pictures \nCast: Kristen Stewart, Vincent Cassel, Jessica Henwick, John Gallagher Jr. \nDirector: William Eubank \nFormat: Classic(2D) \n",
+      "MovieName4" : "Underwater 2020",
+      "MovieSynopsis4" : "Kristen Stewart stars as Norah Price, one of the crew members of underwater researchers who find themselves trapped in their deep-sea lab after an earthquake. Running out of oxygen and with their equipment to get to land badly damaged, they find themselves also hunted by a frightening deep-sea creature.",
+      "MovieTrailer4" : "https://www.youtube.com/watch?v=Rszr56AH3Co"
+    },
+    "NowShowing5" : {
+      "MovieDetails5" : "Classification: P13\nGenre: Action / Comedy\nRunning Time: 1 Hour 50 Minutes\nFormat: Classic(2D)",
+      "MovieImage5" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FHitman%20-%20Agent%20Jun.jpg?alt=media&token=7a34d0dd-67b7-4991-99c4-4a5e35de0164",
+      "MovieInfo5" : "Language: Korean \nSubtitle: English / Malay / Chinese \nClassification: P13 \nRelease Date: 20 Feb 2020 \nGenre: Action / Comedy \nRunning Time: 1 Hour 50 Minutes \nDistributor: ATriNaga Sdn Bhd \nCast: Kwon Sang-Woo, Jung Joon-Ho, Hwang Woo Seul Hye, Lee Yi-Kyung \nDirector: Choi Won-Sub \nFormat: Classic(2D) \n",
+      "MovieName5" : "Hitman: Agent Jun 2020",
+      "MovieSynopsis5" : "Joon is struggling to come up with new material for his web comic, but one night after drinking, he comes up with the idea to do a story based on his former job as a legendary hitman with the NIS. He has quit the job in order to pursue his dream of writing web comics. He soon finds himself in a lot of trouble after posting the story because it contains classified information.",
+      "MovieTrailer5" : "https://www.youtube.com/watch?v=2C2jh6U2Aes"
+    },
+    "NowShowing6" : {
+      "MovieDetails6" : "Classification: P13\nGenre: Horror\nRunning Time: 1 Hour 37 Minutes\nFormat: Classic(2D)",
+      "MovieImage6" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FBaba%20Yaga--%20Terror%20of%20the%20Dark%20Forest.jpg?alt=media&token=083d3f91-c403-4fbe-b238-2e292f0fb29d",
+      "MovieInfo6" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nRelease Date: 9 Jul 2020 \nGenre: Horror \nRunning Time: 1 Hour 37 Minutes \nDistributor: GSC Movies \nCast: Oleg Chugunov, Glafira Golubeva, Artyom Zhigulin, Maryana Spivak, Svetlana Ustinova \nDirector: Svyatoslav Podgayevskiy \nFormat: Classic(2D) \n",
+      "MovieName6" : "Baba Yaga: Terror of the Dark Forest",
+      "MovieSynopsis6" : "Egor`s parents hire a new nanny to take care of his newborn sister after the family moves to an apartment on the city`s outskirts. He notices the nanny exhibiting strange behaviours but his parents ignore him when he tries telling them, choosing to believe instead in the nothing-out-of-the-ordinary happenings that they can see via the surveillance cameras. When the nanny mysteriously disappears along with his sister and his parents even more mysteriously forget the baby`s existence, he works with his friends to look for her. He is horrified to learn that the nanny`s true identity is Baba Yaga, an ancient Slavic demon.",
+      "MovieTrailer6" : "https://www.youtube.com/watch?v=pcOgE6pudB8"
+    },
+    "NowShowing7" : {
+      "MovieDetails7" : "Classification: P18\nGenre: Horror\nRunning Time: 1 Hour 35 Minutes\nFormat: Classic(2D)",
+      "MovieImage7" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FThe%20Grudge%202020.jpeg?alt=media&token=d38cf2db-60e6-49e7-ad8d-41fa4ca31e37",
+      "MovieInfo7" : "Language: English \nSubtitle: Malay / Chinese \nClassification: 18 \nRelease Date: 2 Jan 2020 \nGenre: Horror \nRunning Time: 1 Hour 35 Minutes \nDistributor: Sony Pictures Entertainment \nCast: Andrea Riseborough, Demián Bichir, John Cho, Lin Shaye, Jacki Weaver \nDirector: Nicolas Pesce \nFormat: Classic(2D) \n",
+      "MovieName7" : "The Grudge 2020",
+      "MovieSynopsis7" : "A young detective, who is a single mother to a young son, has to save herself and her son from a cursed house in her neighbourhood. The house is filled with demonic spirits and anyone who enters it will die a violent death.",
+      "MovieTrailer7" : "https://www.youtube.com/watch?v=Oo_c5lu0W0k"
+    },
+    "NowShowing8" : {
+      "MovieDetails8" : "Classification: P13\nGenre: Horror\nRunning Time: 1 Hour 49 Minutes\nFormat: Classic(2D)",
+      "MovieImage8" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FHowling%20Village%202020.jpg?alt=media&token=e4f4a275-2b0c-4a76-bb98-ea534693c439",
+      "MovieInfo8" : "Language: Japanese \nSubtitle: English / Malay / Chinese \nClassification: P13 \nRelease Date: 9 Jul 2020 \nGenre: Horror \nRunning Time: 1 Hour 49 Minutes \nDistributor: MM2 Entertainment \nCast: Ayaka Miyoshi, Ryota Bando, Renji Ishibashi, Masanobu Takashima \nDirector: Takashi Shimizu \nFormat: Classic(2D) \n",
+      "MovieName8" : "Howling Village 2020",
+      "MovieSynopsis8" : "Located in Fukuoka Prefecture, Inunaki Village becomes known as Howling Village due to the many horror stories surrounding it. Kanae`s brother Yuma and his girlfriend Akina visit the supposedly cursed place to test their courage but this causes Akina to lose her sanity and she ends up committing suicide. When Yuma returns to the village with his friends, he goes missing while all his friends end up dead. Being a psychiatrist with a sixth sense, Kanae decides she must solve the mysterious case. She then discovers that her ancestors might be related to the strange incidents.",
+      "MovieTrailer8" : "https://www.youtube.com/watch?v=H0SNg44pM40"
+    },
+    "NowShowing9" : {
+      "MovieDetails9" : "Classification: P13\nGenre: Action / Drama / Fantasy\nRunning Time: 1 Hour 48 Minutes\nFormat: Classic(2D), IMAX, DELUXE+",
+      "MovieImage9" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fbloodshot.jpg?alt=media&token=8022fe31-c9f4-4ebc-ae22-277b533dec5a",
+      "MovieInfo9" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nRelease Date: 12 Mar 2020 \nGenre: Action / Drama / Fantasy \nRunning Time: 1 Hour 48 Minutes \nDistributor: Sony Pictures Entertainment \nCast: Vin Diesel, Eiza González, Sam Heughan, Toby Kebbell, Guy Pearce \nDirector: Dave Wilson \nFormat: Classic(2D), IMAX, DELUXE+ \n",
+      "MovieName9" : "Bloodshot 2020",
+      "MovieSynopsis9" : "Marine Ray Garrison finds himself resurrected as a superhuman by a secret team of scientists after he and his wife are murdered. Enhanced with nanotechnology, he is now a biotech killing machine called Bloodshot. He is unable to remember anything from his past at first but when his memories return, he breaks out of the facility to go after the man who killed him and his wife. However, he discovers something more to the conspiracy.",
+      "MovieTrailer9" : "https://www.youtube.com/watch?v=vOUVVDWdXbo"
+    },
+    "Nowshowing1" : {
+      "MovieDetails1" : "Classification: P13\nGenre: Action / Adventure / Comedy\nRunning Time: 2 Hours 3 Minutes\nFormat: Classic(2D)",
+      "MovieImage1" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FMY%20Hero%20Academia%20-%20Heros%20Rising.jpg?alt=media&token=d1c3fbe9-07b7-4328-9dd2-4ae4fcb020d6",
+      "MovieInfo1" : "Language: Japanese \nSubtitle: English \nClassification: P13 \nRelease Date: 9 Jul 2020 \nGenre: Anime \nRunning Time: 1 Hour 45 Minutes \nDistributor: GSC Movies \nCast: Daiki Yamashita, Kenta Miyake, Nobuhiko Okamoto, Aoi Yuki, Ayane Sakura, Eri Kitamura, Junichi Suwabe, Kaito Ishikawa \nDirector: Kenji Nagasaki \nFormat: Classic(2D) \n",
+      "MovieName1" : "My Hero Academia: Heros Rising",
+      "MovieSynopsis1" : "Deku, Bakugo and the other students of U.A. Academy Class 1-A get temporarily assigned for hero work on an island south of Japan. All Might, retired No. 1 Hero, told them it is part of a project to raise the next generation of heroes. On the island, Deku and the others assist the citizens with their daily tasks. Things are calm at first until a group of villains, led by Nine, suddenly appear to destroy the island`s facilities. As they try to figure out why Nine is attacking the island, Deku and his friends must protect the citizens from Nine and his gang of villains.",
+      "MovieTrailer1" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/y2mate.com%20-%20My%20Hero%20Academia_%20Heroes%20Rising%20-%20Official%20Movie%20Trailer%20(English%20Dub)_ezHmHHt0B78_360p.mp4?alt=media&token=59f8c245-1aa5-48f7-9bd5-bf85984617ea"
+    },
+    "Nowshowing2" : {
+      "MovieDetails2" : "Classification: P13\nGenre: Action / Adventure / Comedy\nRunning Time: 2 Hours 3 Minutes\nFormat: Classic(2D), IMAX, DELUXE+",
+      "MovieImage2" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fjumanji2.jpg?alt=media&token=10c6ec5a-a9cf-4346-be7e-bc4d32e2460d",
+      "MovieInfo2" : "Language: English \nSubtitle: Malay / Chinese \nClassification: P13 \nRelease Date: 5 Dec 2019 \nGenre: Action / Adventure / Comedy \nRunning Time: 2 Hours 3 Minutes \nDistributor: Sony Pictures Entertainment \nCast: Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan, Nick Jonas, Awkwafina, Danny Glover, Danny DeVito \nDirector: Jake Kasdan \nFormat: Classic(2D), IMAX, DELUXE+ \n",
+      "MovieName2" : "Jumanji: The Next Level",
+      "MovieSynopsis2" : "Bethany, Martha and Fridge re-enter the game \"Jumanji\" after discovering that Spencer has been sucked back into it. When Spencer`s friend, Milo, and grandfather, Eddie, hear the commotion, they check up on it and end up being unwittingly dragged into the game too. In the game world, the gang realises that the game has changed, even their avatars are jumbled up now. Nothing is what they expect. They will have to brave unexplored arid deserts to snowy mountains to make their way out of the world`s most dangerous game.",
+      "MovieTrailer2" : "https://www.youtube.com/watch?v=rBxcF-r9Ibs"
+    }
+  },
+  "category2" : {
+    "ComingSoon1" : {
+      "MovieImage1" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FUnhinged.jpg?alt=media&token=45ae99a0-450a-4e6e-b36b-eb6d9be45d9a",
+      "MovieInfo1" : "Language: English \nSubtitle: Malay / Chinese \nClassification: NA \nRelease Date: 10 Sep 2020 \nGenre: Thriller \nRunning Time: 1 Hour 31 Minutes \nDistributor: TGV Pictures \nCast: Russell Crowe, Gabriel Bateman, Caren Pistorius \nDirector: Derrick Borte \nFormat: Classic(2D) \n",
+      "MovieName1" : "Unhinged",
+      "MovieSynopsis1" : "After a road rage confrontation between divorced single mother Rachel and an unstable man, she discovers that she has now become the man`s target. Determined to teach her a series of deadly lessons, he stalks and threatens not only her but also everyone close to her.",
+      "MovieTrailer1" : "https://www.youtube.com/watch?v=vdxDXoODKN8"
+    },
+    "ComingSoon10" : {
+      "MovieImage10" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FCandyman%202020.jpg?alt=media&token=ad45e699-dfb6-45b1-82cd-fab19040058d",
+      "MovieInfo10" : "Language: English \nSubtitle: NA \nClassification: NA \nRelease Date: 15 Oct 2020 \nGenre: Horror \nRunning Time: NA \nDistributor: United International Pictures \nCast: Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett, Colman Domingo, Vanessa Estelle Williams, Tony Todd \nDirector: Nia DaCost \nFormat: Classic(2D) \n",
+      "MovieName10" : "Candyman 2020",
+      "MovieSynopsis10" : "This movie serves as a sequel to the 1992 horror movie \"Candyman\". It is set in the same Chicago neighbourhood where the legend began, but the section where the Cabrini-Green housing projects once stood is now gentrified. After visual artist Anthony McCoy moves into a luxury condo there with his girlfriend, gallery director Brianna Cartwright, he soon learns about the vengeful spirit that haunts the place. Called Candyman, he becomes fascinated by it and begins using the macabre details behind the supernatural killer`s true story as inpiration for his new paintings. Unfortunately for him, this leads to not only a horrifying wave of violence but also forces him to face his past which unravels his sanity.",
+      "MovieTrailer10" : "https://www.youtube.com/watch?v=5TSMulpd3Bc"
+    },
+    "ComingSoon11" : {
+      "MovieImage11" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FHalloween%20Kills.jpg?alt=media&token=b67390bc-8368-4bb3-bc0a-0d05b9370864",
+      "MovieInfo11" : "Language: English \nSubtitle: Malay / Chinese \nClassification: NA \nRelease Date: 14 Oct 2021 \nGenre: Horror \nRunning Time: NA \nDistributor: United International Pictures \nCast: Jamie Lee Curtis, Judy Greer, Andi Matichak, Kyle Richards \nDirector: David Gordon Green \nFormat: Classic(2D) \n",
+      "MovieName11" : "Halloween Kills",
+      "MovieSynopsis11" : "This sequel to 2018`s \"Halloween\", which also serves as the 12th instalment of the horror franchise, sees Laurie Strode, the sole survivor of Michael Myers` killing spree in 1978, facing the serial killer once again.",
+      "MovieTrailer11" : "https://www.youtube.com/watch?v=rHhZDYVoV7w"
+    },
+    "ComingSoon12" : {
+      "MovieImage12" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FThe%20Pale%20Door.jpg?alt=media&token=7e740297-a581-421d-bc66-72b01e1b802d",
+      "MovieInfo12" : "Language: English \nSubtitle: Malay / Chinese \nClassification: NA \nRelease Date: 21 August 2020 \nGenres: Horror,Western \nRunning Time: NA \nDirector: Aaron B. Koontz \nCast:Melora Walters,Zachary Knighton,Noah Segan,Stan Shaw,Devin Druid,Natasha Bassett,Bill Sage,Pat Healy,James Landry Hébert,Tina Parker,Alexandra Harris,Jeremy King . \nFormat: Classic(2D) \n",
+      "MovieName12" : "The Pale Door",
+      "MovieSynopsis12" : "The Dalton gang finds shelter in a seemingly uninhabited ghost town after a train robbery goes south. Seeking help for their wounded leader, they are surprised to stumble upon a welcoming brothel in the town's square. But the beautiful women who greet them are actually a coven of witches with very sinister plans for the unsuspecting outlaws.",
+      "MovieTrailer12" : "https://www.youtube.com/watch?v=Rt_pX7OUnSs"
+    },
+    "ComingSoon13" : {
+      "MovieImage13" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FGodzilla%20vs.%20Kong.jpg?alt=media&token=537886c9-9300-4ef3-93de-8b2b134e75f0",
+      "MovieInfo13" : "Language: English \nSubtitle: Malay / Chinese \nClassification: NA \nRelease Date: 20 May 2021 \nGenre: Action / Science Fiction / Thriller \nRunning Time: NA \nDistributor: Warner Bros. Pictures \nCast: Alexander Skarsgard, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González \nDirector: Adam Wingard \nFormat: Classic(2D) \n",
+      "MovieName13" : "Godzilla vs. Kong",
+      "MovieSynopsis13" : "As humanity fights for its future, colossal creatures Godzilla and Kong collide with each other in a battle. Monarch`s mission into uncharted terrains unearths clues to the origins of the Titans and a human conspiracy threatens to erase Godzilla and Kong`s existence on earth forever.",
+      "MovieTrailer13" : "https://www.youtube.com/watch?v=G218sjL4PxU"
+    },
+    "ComingSoon2" : {
+      "MovieImage2" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fmulan.jpg?alt=media&token=15d433db-d5bf-4962-92e2-23a2fd1c969e",
+      "MovieInfo2" : "Language: English \nSubtitle: Malay / Chinese \nClassification: NA \nRelease Date: 4 Sep 2020 \nGenre: Adventure / Drama / Family \nRunning Time: NA \nDistributor: Walt Disney Pictures \nCast: Crystal Liu Yifei, Donnie Yen, Jason Scott Lee, Yoson An, Gong Li, Jet Li \nDirector: Niki Caro \nFormat: Classic(2D), IMAX \n",
+      "MovieName2" : "Mulan 2020",
+      "MovieSynopsis2" : "A live-action adaptation of the tale of legendary warrior Hua Mulan. The young woman disguises herself as a man so that she can take her aged father`s place in the army.",
+      "MovieTrailer2" : "https://www.youtube.com/watch?v=KK8FHdFluOQ"
+    },
+    "ComingSoon3" : {
+      "MovieImage3" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FGreenland%202020.jpg?alt=media&token=fb76b35c-8c0b-429e-bcfe-aca35acb2094",
+      "MovieInfo3" : "Language: English \nSubtitle: Malay / Chinese \nClassification: NA \nRelease Date: 24 Sep 2020 \nGenre: Action / Thriller \nRunning Time: NA \nDistributor: TGV Pictures \nCast: Gerard Butler, Morena Baccarin, Scott Glenn, Andrew Bachelor, David Denman  \nDirector: Ric Roman Waugh \nFormat: Classic(2D) \n",
+      "MovieName3" : "Greenland 2020",
+      "MovieSynopsis3" : "A comet is hurtling towards Earth and scientists discover that once it hits the planet in a few days` time, it might just spell the end of humanity. As cities around the world are getting destroyed by the comet`s fragments, John Garrity, his estranged wife Allison and their son Nathan must now embark on a dangerous journey to the bunkers in Greenland, where they hope to take shelter from the calamitous natural disaster.",
+      "MovieTrailer3" : "https://www.youtube.com/watch?v=1AyxdYP1SNc"
+    },
+    "ComingSoon4" : {
+      "MovieImage4" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FTenet.jpg?alt=media&token=037466c8-f577-4296-92e7-076e83c9084a",
+      "MovieInfo4" : "Language: English \nSubtitle: Malay / Chinese \nClassification: NA \nRelease Date: 27 Aug 2020 \nGenre: Action / Drama / Thriller \nRunning Time: NA \nDistributor: Warner Bros. Pictures \nCast: John David Washington, Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Aaron Taylor-Johnson, Clémence Poésy, Michael Caine, Kenneth Branagh \nDirector: Christopher Nolan \nFormat: Classic(2D) \n",
+      "MovieName4" : "Tenet",
+      "MovieSynopsis4" : "John David Washington, Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Aaron Taylor-Johnson, Clemence Poesy, Michael Caine and Kenneth Branagh star in this action epic by Christopher Nolan. It focuses on the world of international espionage.",
+      "MovieTrailer4" : "https://www.youtube.com/watch?v=L3pk_TBkihU"
+    },
+    "ComingSoon5" : {
+      "MovieImage5" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FAntebellum.jpeg?alt=media&token=6de1c7ba-82b7-431d-98fe-e70ccf7d5de9",
+      "MovieInfo5" : "Language: English \nSubtitle: Malay / Chinese \nClassification: 18 \nRelease Date: 10 Sep 2020 \nGenre: Thriller \nRunning Time: 1 Hour 46 Minutes \nDistributor: GSC Movies \nCast: Janelle Monáe, Marque Richardson, Eric Lange, Jack Huston, Kiersey Clemons, Tongayi Chirisa, Gabourey Sidibe, Robert Aramayo, Lily Cowles, Jena Malone \nDirector: Gerard Bush, Christopher Renz \nFormat: Classic(2D) \n",
+      "MovieName5" : "Antebellum",
+      "MovieSynopsis5" : "Upon discovering that she is trapped in a horrifying, nightmarish reality, successful author Veronica Henley must solve the mind-bending mystery and find a way to break free before it`s too late.",
+      "MovieTrailer5" : "https://www.youtube.com/watch?v=rtEaNK2PtPM"
+    },
+    "ComingSoon6" : {
+      "MovieImage6" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FMonster%20Hunter.jpg?alt=media&token=da878834-20d1-495a-95c8-5ed7e4e9362f",
+      "MovieInfo6" : "Language: English \nSubtitle: Chinese \nClassification: NA \nRelease Date: 15 Apr 2021 \nGenre: Action / Fantasy \nRunning Time: NA \nDistributor: Sony Pictures Entertainment \nCast: Milla Jovovich, Tony Jaa, T.I, Meagan Good, Diego Boneta \nDirector: Paul W. S. Anderson \nFormat: Classic(2D) \n",
+      "MovieName6" : "Monster Hunter",
+      "MovieSynopsis6" : "Based on a video game series of the same name about monsters and the humans that hunt them. When Lieutenant Artemis and her United Nations military team end up in an alternate dimension after falling into a portal, they encounter terrifying monsters in the hostile land. As they desperately look for a way home, they decide to join forces with a mysterious hunter, who has unique skills that have allowed him to survive there, to stop the monsters from entering the portal and attacking Earth.",
+      "MovieTrailer6" : "https://www.youtube.com/watch?v=esrOrAt_4do"
+    },
+    "ComingSoon7" : {
+      "MovieImage7" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FThe%20Conjuring%203.jpg?alt=media&token=a041c105-7807-4052-a13f-4098dc3e4a6e",
+      "MovieInfo7" : "Language: English \nSubtitle: Chinese \nClassification: NA \nGenre:Horror \nDirector: Michael Chaves \nRelease Date:4 Jun 2021 \nRunning Time:2 hours \nCast:Patrick Wilson,Vera Farmiga,Ruairi O'Connor,Sarah Catherine Hook,Julian Hilliard. \nFormat: Classic(2D) \n",
+      "MovieName7" : "The Conjuring 3",
+      "MovieSynopsis7" : "\"The Conjuring: The Devil Made Me Do It\" reveals a chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of the most sensational cases from their files, it starts with a fight for the soul of a young boy, then takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+      "MovieTrailer7" : "https://www.youtube.com/watch?v=FD3_vV1P3Qs"
+    },
+    "ComingSoon8" : {
+      "MovieImage8" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2Fking%20man%203.jpg?alt=media&token=c1cedc0e-850f-4b40-a500-c1df76432b45",
+      "MovieInfo8" : "Language: English \nSubtitle: Chinese \nRelease Date:18th September 2020. \nGenre: Action / Adventure / Comedy \nRunning Time: NA \nDistributor:NA \nCast:Gemma Arterton,Daniel Brühl,Ralph Fiennes,Aaron Taylor-Johnson,Matthew Goode,Stanley Tucci,Tom Hollander,Charles Dance,Djimon Hounsou,Neil Jackson,Rhys Ifans,Alexandra Maria Lara,Harris Dickinson. \nDirector:Matthew Vaughn \nFormat: Classic(2D) \n",
+      "MovieName8" : "Kingsman 3",
+      "MovieSynopsis8" : "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
+      "MovieTrailer8" : "https://www.youtube.com/watch?v=XsN9NnD0tFY"
+    },
+    "ComingSoon9" : {
+      "MovieImage9" : "https://firebasestorage.googleapis.com/v0/b/gws1-b1177.appspot.com/o/MoviePicture%2FThe%20Witches%202020.jpg?alt=media&token=4242e8e2-5ec2-455f-85bf-b4cff8d3660f",
+      "MovieInfo9" : "Language: English \nSubtitle: Chinese \nRelease Date:2021 \nGenres: Adventure/Comedy/Family/Fantasy/Horror/Mystery \nRunning Time: NA \nDistributor:NA \nCast:Jahzir Kadeem Bruno,Anne Hathaway,Octavia Spencer,Stanley Tucci,Chris Rock,Codie-Lei Eastick,Charles Edwards,Morgana Robinson,Eugenia Caruso,Simon Manyonda. \nDirector:Robert Zemeckis \nFormat: Classic(2D) \n",
+      "MovieName9" : "The Witches 2020",
+      "MovieSynopsis9" : "A little boy stumbles across a conference of witches while staying with his grandmother at a hotel, and gets transformed into a mouse by the Grand High Witch.",
+      "MovieTrailer9" : "https://www.youtube.com/watch?v=XJ2_JVPmDzc"
+    }
+  }
+}
