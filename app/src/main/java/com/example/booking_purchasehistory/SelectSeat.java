@@ -344,7 +344,7 @@ public class SelectSeat extends AppCompatActivity {
         Intent intent = new Intent(this, ConfirmTicket.class);
         intent.putExtra(EXTRA_MESSAGE, tag);
         intent.putExtra(EXTRA_COUNT, intCount.toString());
-        movieDetail = movieDetail + tag;
+        movieDetail = movieDetail + "\n" + tag;
         intent.putExtra(EXTRA_MOVIEDETAIL, movieDetail);
         intent.putExtra(EXTRA_MOVIENAME,movieName);
         startActivity(intent);
